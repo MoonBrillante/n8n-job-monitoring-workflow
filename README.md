@@ -8,6 +8,11 @@ The workflow runs on a scheduled trigger, prepares search requests, handles diff
 
 This project demonstrates a practical automation pipeline for job data collection, filtering, deduplication, and structured storage.
 
+## Workflow Overview
+
+![Workflow overview](screenshots/workflow-overview.png)
+
+
 ## Features
 
 - **Scheduled automation** – Runs automatically on a configurable schedule.
