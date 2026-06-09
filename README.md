@@ -18,6 +18,10 @@ The final append step only runs when new job posts pass the deduplication filter
 
 ![Search configuration sheet](screenshots/search-config-sheet.png)
 
+## Output Example
+
+![Google Sheets output](screenshots/google-sheet-output.png)
+
 ## Features
 
 - **Scheduled automation** – Runs automatically on a configurable schedule.
