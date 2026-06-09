@@ -12,6 +12,11 @@ This project demonstrates a practical automation pipeline for job data collectio
 
 ![Workflow overview](screenshots/workflow-overview.png)
 
+The final append step only runs when new job posts pass the deduplication filter.
+
+## Configuration Example
+
+![Search configuration sheet](screenshots/search-config-sheet.png)
 
 ## Features
 
